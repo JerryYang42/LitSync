@@ -1,0 +1,2 @@
+- All contributions will be under the GPL-3.0 license
+- Contributors agree to their code being distributed under these terms

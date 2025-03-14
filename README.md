@@ -55,3 +55,7 @@ LitSync is a comprehensive local application that manages your reading across bo
 ---
 
 LitSync aims to be your centralized hub for reading, learning, and knowledge management - bringing together the best tools while keeping you in control of your data.
+
+## License
+
+GPL-3.0
